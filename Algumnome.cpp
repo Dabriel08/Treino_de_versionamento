@@ -6,6 +6,5 @@ using namespace std;
 
 int main(){
 
-    cout << "HeloWdadadadadadadadadadadaddaord(printf):";
-//dadh0iahf0iahf-9af
+    cout << "falos é gay";
 }
